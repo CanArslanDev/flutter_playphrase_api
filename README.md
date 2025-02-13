@@ -1,7 +1,8 @@
-```markdown
 # Movie Phrase Search App
 
 A Flutter application that allows users to search for movie phrases and watch the corresponding video clips. The app uses the PlayPhrase.me API to fetch video content and display synchronized subtitles.
+
+<img src="https://github.com/user-attachments/assets/2238acf7-42d6-47d2-8885-ac031f1a62d9" height="500" style="display: inline-block;">
 
 ## 📱 Features
 
@@ -93,6 +94,3 @@ Project Link: [https://github.com/yourusername/movie-phrase-search](https://gith
 
 ---
 ⭐️ If you found this project helpful, please give it a star!
-```
-
-Would you like me to explain any part of the README or modify it further?
